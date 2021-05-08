@@ -1,11 +1,11 @@
 # Good-README-Generator
 
 ## Description
-The **Weather-Dashboard** project is the fifth homework assignment of the March 2021 cohort from University of New Hampshire's full-stack coding bootcamp. 
+The **Weather-Dashboard** project is an assignment of the March - August 2021 cohort from University of New Hampshire's full-stack web development course. 
 
-Allowing us to use the skills covered in this week's course, this project was created to use third-party APIs, accessing their data and functionality to making requests with specific parameters. Using OpenWeather One Call API to retrieve weather data for cities, our challenge was to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
+Allowing us to use the skills covered in this week's course, this project's task was to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. 
 
-This project also includes Moment.js and uses of local storage. All other technologies are listed below.  
+Technologies are listed below.  
 
 ## User Story
  - AS A developer
@@ -39,18 +39,14 @@ THEN I am taken to the corresponding section of the README
 ![Weather Dashboard Screenshot](https://i.postimg.cc/zBkVYfHq/Weather-Dashboard-Screenshot.png)
 
 ## Technologies
- - HTML
- - CSS
  - JavaScript
- - jQuery
- - [OpenWeather API](https://openweathermap.org/api/one-call-api)
+ - Node.js
 
 ## Credits 
-My web development bootcamp program is offered through the University of New Hampshire Professional Development & Training and Trilogy Education Services.
+The web development bootcamp program is offered through the University of New Hampshire Professional Development & Training and Trilogy Education Services.
 
 March 2021 cohort instructors:
 - Instructor - Benjamin Hutchins [GitHub](https://github.com/benhutchins)
-- TA - Casey Ferguson [GitHub](https://github.com/cferg019)
 
 ## Usage
 * [GitHub Repository](https://github.com/Laura-Bullek/Weather-Dashboard)
