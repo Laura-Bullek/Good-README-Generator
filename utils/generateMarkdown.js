@@ -1,6 +1,21 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) {}
+
+// License badge - https://img.shields.io/badge/License-GPL%20v2-blue.svg
+// Public licenses:
+//  (MIT) https://opensource.org/licenses/MIT
+//  (ISC) https://opensource.org/licenses/ISC
+//  (MPL 2.0) https://opensource.org/licenses/ISC
+//  (GNU GPL v3) https://opensource.org/licenses/ISC
+
+
+function renderLicenseBadge(license) {
+  if(license === 'NONE'){
+    return ''
+  }
+  return `[![License: ${license}](https://img.shields.io/badge/License-${license}-blue.svg)]`
+
+}
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
