@@ -36,7 +36,7 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
-![Weather Dashboard Screenshot](https://i.postimg.cc/zBkVYfHq/Weather-Dashboard-Screenshot.png)
+![README Walkthrough Video](./assets/Good-README-Generator-Walkthrough.gif)
 
 ## Technologies
  - JavaScript
@@ -50,8 +50,7 @@ March 2021 cohort instructors:
 - Instructor - Benjamin Hutchins [GitHub](https://github.com/benhutchins)
 
 ## Usage
-* [GitHub Repository](https://github.com/Laura-Bullek/Weather-Dashboard)
-* [Deployed Main Application](https://laura-bullek.github.io/Weather-Dashboard/)
+* [GitHub Repository](https://github.com/Laura-Bullek/Good-README-Generator)
 
 ## Licensing
 MIT License
