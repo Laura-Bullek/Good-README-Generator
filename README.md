@@ -1,9 +1,9 @@
 # Good-README-Generator
 
 ## Description
-The **Weather-Dashboard** project is an assignment of the March - August 2021 cohort from University of New Hampshire's full-stack web development course. 
+The **Good-README-Generator** is a project from the March-August 2021 cohort from University of New Hampshire's full-stack web development course. 
 
-Allowing us to use the skills covered in this week's course, this project's task was to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. 
+Allowing us to use the skills covered in this week's course, this project's task was to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package and Node.js. 
 
 Technologies are listed below.  
 
@@ -41,6 +41,7 @@ THEN I am taken to the corresponding section of the README
 ## Technologies
  - JavaScript
  - Node.js
+ - Inquirer.js
 
 ## Credits 
 The web development bootcamp program is offered through the University of New Hampshire Professional Development & Training and Trilogy Education Services.
